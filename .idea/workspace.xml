@@ -15,8 +15,8 @@
       <file leaf-file-name="FunctionalInterfaces.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../LastLesson/src/FunctionalInterfaces.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="126" column="17" lean-forward="false" selection-start-line="126" selection-start-column="17" selection-end-line="126" selection-end-column="17" />
+            <state relative-caret-position="448">
+              <caret line="143" column="0" lean-forward="true" selection-start-line="143" selection-start-column="0" selection-end-line="143" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#m1#0;class#FunctionalInterfaces#0" expanded="false" />
@@ -34,6 +34,9 @@
                 <element signature="method#sorting#0;class#FunctionalInterfaces#0" expanded="false" />
                 <element signature="e#3110#3111#0" expanded="true" />
                 <element signature="e#3163#3164#0" expanded="true" />
+                <element signature="method#stringToNumberNotOptional#0;class#FunctionalInterfaces#0" expanded="false" />
+                <element signature="method#strToNumber#0;class#FunctionalInterfaces#0" expanded="false" />
+                <element signature="method#optional#0;class#FunctionalInterfaces#0" expanded="false" />
                 <element signature="e#4713#4714#0" expanded="true" />
                 <element signature="e#4739#4740#0" expanded="true" />
               </folding>
@@ -49,6 +52,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../LastLesson" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -74,6 +80,7 @@
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -240,12 +247,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1548260005961</updated>
-      <workItem from="1548260010168" duration="8356000" />
+      <workItem from="1548260010168" duration="8433000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8356000" />
+    <option name="totallyTimeSpent" value="8433000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -260,8 +267,8 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" x="1085" y="242" width="743" height="706" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32979852" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32979852" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -289,14 +296,6 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/../LastLesson/src/FunctionalInterfaces.java</url>
-          <line>121</line>
-          <properties />
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
       <option name="time" value="4" />
     </breakpoint-manager>
     <watches-manager />
@@ -350,8 +349,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../LastLesson/src/FunctionalInterfaces.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="126" column="17" lean-forward="false" selection-start-line="126" selection-start-column="17" selection-end-line="126" selection-end-column="17" />
+        <state relative-caret-position="448">
+          <caret line="143" column="0" lean-forward="true" selection-start-line="143" selection-start-column="0" selection-end-line="143" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#m1#0;class#FunctionalInterfaces#0" expanded="false" />
@@ -369,6 +368,9 @@
             <element signature="method#sorting#0;class#FunctionalInterfaces#0" expanded="false" />
             <element signature="e#3110#3111#0" expanded="true" />
             <element signature="e#3163#3164#0" expanded="true" />
+            <element signature="method#stringToNumberNotOptional#0;class#FunctionalInterfaces#0" expanded="false" />
+            <element signature="method#strToNumber#0;class#FunctionalInterfaces#0" expanded="false" />
+            <element signature="method#optional#0;class#FunctionalInterfaces#0" expanded="false" />
             <element signature="e#4713#4714#0" expanded="true" />
             <element signature="e#4739#4740#0" expanded="true" />
           </folding>
